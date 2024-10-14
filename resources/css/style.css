@@ -1,0 +1,20 @@
+main {
+  background-color: #333;
+    color: #fff;
+}
+
+.title {
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.link {
+  color: aquamarine;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  text-align: center;
+}
