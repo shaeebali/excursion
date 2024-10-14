@@ -12,10 +12,43 @@ body {
   text-align: center;
 }
 
-.link {
+.link a {
   color: aquamarine;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 16px;
   font-weight: normal;
   text-align: center;
+  
+}
+
+.subtitle {
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.app-desc {
+  color: gray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.coming-soon {
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.footer {
+  color: gray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  font-weight: normal;
+  text-align: right;
 }
